@@ -1,0 +1,20 @@
+# remove all png and jpg files
+*.png
+*.jpg
+*jpeg
+*.pth*
+*.JPG
+*.zip
+
+# all the folders containing dataset
+/data
+./data
+/ViT-Adapter/segmentation/data/*
+/ViT-Adapter/segmentation/data/*
+/SAM
+*/demo
+
+# pretrained pth files and checkpoints
+/ViT-Adapter/segmentation/pretrained/*
+/ViT-Adapter/segmentation/checkpoints/*
+/ViT-Adapter/segmentation/work_dirs/*
