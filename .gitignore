@@ -4,7 +4,9 @@
 *jpeg
 *.pth*
 *.JPG
+*.jpg
 *.zip
+*.pt
 
 # all the folders containing dataset
 /data
